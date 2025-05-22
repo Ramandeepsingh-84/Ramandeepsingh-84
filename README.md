@@ -1,4 +1,4 @@
-# 👋 Hello, I’m [Your Name]
+# 👋 Hello, I’m Ramandeep Singh
 
 ### 🚀 Full-Stack Developer | Software Engineer | Problem Solver
 
